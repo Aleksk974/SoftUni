@@ -1,0 +1,13 @@
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\bin\Debug\net6.0\TaskBoard.Data.deps.json
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\bin\Debug\net6.0\TaskBoard.Data.dll
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\bin\Debug\net6.0\TaskBoard.Data.pdb
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.csproj.AssemblyReference.cache
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.AssemblyInfoInputs.cache
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.AssemblyInfo.cs
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.sourcelink.json
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.dll
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net6.0\refint\TaskBoard.Data.dll
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.pdb
+C:\Users\Aleks PC\OneDrive\Documents\GitHub\DevOps-for-Developers\Containers-and-Cloud\Containers.and.Docker-Exercise\TaskBoard-ASP.NET-App\TaskBoard.Data\obj\Debug\net6.0\ref\TaskBoard.Data.dll
